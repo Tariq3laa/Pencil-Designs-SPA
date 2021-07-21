@@ -1,4 +1,4 @@
-# router_vuex
+# Pencil-Designs-SPA
 
 ## Project setup
 ```
